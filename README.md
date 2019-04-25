@@ -1,0 +1,2 @@
+# sallFiles
+projectOfMecka
